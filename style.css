@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+	background-color: #FFFFFF;
+}
+.navbar-nav.ms-auto .nav-item .nav-link.active {
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+	color: #4A2C1A;
+}
+.container .row {
+	padding-top: 12px;
+	padding-right: 80px;
+	padding-bottom: 13px;
+	padding-left: 80px;
+	margin-right: -115px;
+	margin-left: -115px;
+}
+.container_fluid.text-center {
+	background-color: #F0E3E0;
+}
+
+
+
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+	background-color: #E8E3DD;
+}
+.nav-item .nav-link img {
+	border-top-right-radius: 0px;
+	margin-right: 17px;
+	margin-bottom: 5px;
+	margin-top: -17px;
+}
+.container-fluid .row .col-lg-6 {
+	margin-top: 30px;
+	padding-left: 32px;
+}
+.row .col-lg-6 h2 {
+	padding-top: 146px;
+	font-weight: bold;
+	padding-left: 0px;
+	font-size: 52px;
+}
+.row .col-lg-6 p {
+	font-size: larger;
+	font-weight: normal;
+}
+.row .col-lg-6 p {
+	font-size: medium;
+}
+.container-fluid h1 {
+	/* [disabled]margin-left: 547px; */
+	/* [disabled]margin-top: 65px; */
+	padding-top: 55px;
+}
+.btn-brown {
+    background-color: #795548; /* Standard brown hex code */
+    color: #fff;
+    border-color: #795548;
+}
+
+.btn-brown:hover {
+    background-color: #5d4037; /* Darker brown for hover */
+    border-color: #5d4037;
+    color: #fff;
+}
+
+.container-fluid p {
+
+
+}
+.container-fluid p2 {
+	/* [disabled]padding-left: 269px; */
+}
+.container-fluid h5 {
+	font-size: 40px;
+	padding-top: 88px;
+	padding-bottom: 51px;
+}
+.row .col-lg-4 h6 {
+	/* [disabled]padding-left: 116px; */
+	/* [disabled]margin-left: 79px; */
+	margin-top: 20px;
+}
+
+
+.row .col-lg-4 p {
+	/* [disabled]padding-left: 32px; */
+	font-size: small;
+	/* [disabled]margin-left: 101px; */
+}
+h2 {
+
+}
+body h2 {
+	/* [disabled]padding-left: 532px; */
+	padding-top: 51px;
+	padding-bottom: 40px;
+}
+.container form .btn.btn-primary {
+	color: #FFFFFF;
+	background-color: #795548;
+}
+
+.container form .btn.btn-primary {
+
+
+}
+.container-fluid .row .col-lg-12 {
+	background-color: #D2B48C;
+	/* [disabled]padding-left: 674px; */
+	padding-top: 45px;
+	margin-top: 20px;
+	padding-bottom: 36px;
+	font-size: medium;
+}
+.row .col-lg-4 img {
+	padding-left: 31px;
+
+}
